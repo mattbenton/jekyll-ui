@@ -1,0 +1,13 @@
+{
+  "name": "jekyll-ui",
+  "description": "A simple web front-end for managing your Jekyll blog",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "~0.8.5",
+    "liquid-node": "~0.1.2",
+    "js-yaml": "~3.0.1",
+    "async": "~0.2.10"
+  }
+}
