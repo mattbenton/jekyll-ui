@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var optimist = require('optimist');
-var app = require('../lib/app');
+var app = require('../server/app');
 
 var args = optimist
   .alias('h', 'help')

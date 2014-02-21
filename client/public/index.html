@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+  <title>Jekyll UI</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="bower_components/codemirror/lib/codemirror.css" rel="stylesheet">
+  <link href="bower_components/codemirror/theme/solarized.css"rel="stylesheet">
+  <link href="build/css/dashboard.css" rel="stylesheet">
+</head>
+<body>
+
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-sidevar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Jekyll UI</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-3 col-md-2 sidebar">
+        <ul class="nav nav-sidebar">
+          <li class="active"><a href="/">Overview</a></li>
+          <li><a href="/posts">Posts</a></li>
+        </ul>
+      </div>
+
+      <div ng-controller="EditorCtrl" class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <textarea id="code"></textarea>
+        <div id="preview"></div>
+        {{ editor }}
+      </div>
+
+      <div ng-controller="PostsCtrl" class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <h1>Posts</h1>
+        <table class="table table-striped">
+          <thead>
+          <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Status</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr ng-repeat="post in posts">
+            <td><a href="/api/post/{{ post.file }}">{{ post.title }}</a></td>
+            <td>{{ post.date | date }}</td>
+            <td>{{ post.isPublished ? 'Published' : 'Draft' }}</td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/angular/angular.min.js"></script>
+  <script src="bower_components/angular-resource/angular-resource.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="bower_components/codemirror/lib/codemirror.js"></script>
+  <script src="bower_components/codemirror/mode/markdown/markdown.js"></script>
+  <script src="build/js/app.js"></script>
+</body>
+</html>
