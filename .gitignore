@@ -19,3 +19,4 @@ node_modules
 .idea/tasks.xml
 
 client/public/bower_components
+client/public/dist
