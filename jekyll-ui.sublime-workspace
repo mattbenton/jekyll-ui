@@ -1,0 +1,1958 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"edi",
+				"editorDouble"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mon",
+				"mongo_log"
+			],
+			[
+				"mongo",
+				"mongo_journal"
+			],
+			[
+				"Editor",
+				"EditorCtrl2"
+			],
+			[
+				"Edi",
+				"EditorService"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"print",
+				"println( v : Dynamic )	Void"
+			],
+			[
+				"Be",
+				"Benchmark	utils"
+			],
+			[
+				"con",
+				"connectionStr	var"
+			],
+			[
+				"echo_",
+				"echo_failure"
+			],
+			[
+				"dele",
+				"delete-log"
+			],
+			[
+				"LO",
+				"LOG_FILE"
+			],
+			[
+				"OP",
+				"OP_NOT_EQUALS [var]"
+			],
+			[
+				"matc",
+				"match"
+			],
+			[
+				"RULE_PAGE",
+				"RULE_PAGE_URL [var]"
+			],
+			[
+				"local",
+				"localTrialEnd"
+			],
+			[
+				"tria",
+				"trialStart"
+			],
+			[
+				"end",
+				"endOfDay"
+			],
+			[
+				"localTra",
+				"localTrialStart"
+			],
+			[
+				"Date",
+				"DateTools2 [class]"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"from",
+				"fromGmtToTz"
+			],
+			[
+				"loca",
+				"localize_strftime"
+			],
+			[
+				"FpCac",
+				"FpCacheUtility [class]"
+			],
+			[
+				"Genius",
+				"GeniusCampaignConfig [class]"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"Fp",
+				"FpApiDefs [class]"
+			],
+			[
+				"Da",
+				"FpApiDefs [class]"
+			],
+			[
+				"trial",
+				"trialStart : Date"
+			],
+			[
+				"for",
+				"formatToTz(...) : String"
+			],
+			[
+				"d",
+				"DateTools2 [class]"
+			],
+			[
+				"getAcc",
+				"getAccountById(...) : Account"
+			],
+			[
+				"utf",
+				"utf8-test"
+			],
+			[
+				"keywo",
+				"keywords"
+			],
+			[
+				"curr",
+				"currency_symbol"
+			],
+			[
+				"off",
+				"offer"
+			],
+			[
+				"get",
+				"getLocaleWithDefault(...) : Localization"
+			],
+			[
+				"va",
+				"valueSymbol"
+			],
+			[
+				"link",
+				"linkUrl"
+			],
+			[
+				"pro",
+				"presentedDuringSession : Bool"
+			],
+			[
+				"co",
+				"collectedDuringSession : Bool"
+			],
+			[
+				"pre",
+				"preventElbRedirect : Bool"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"fLin",
+				"fLinkText"
+			],
+			[
+				"fLi",
+				"fLinkText"
+			],
+			[
+				"fL",
+				"fLinkText"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"fLink",
+				"fLinkCb"
+			],
+			[
+				"link_",
+				"link_text"
+			],
+			[
+				"cpe-link",
+				"cpe-link-url"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"fbSa",
+				"fbShareImage"
+			],
+			[
+				"fbSha",
+				"fbShareCaption"
+			],
+			[
+				"fbS",
+				"fbShareName"
+			],
+			[
+				"ex",
+				"extendDynamic(...) : Dynamic"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"getEle",
+				"getElements() : FormElement>"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"Gen",
+				"GeniusCampaignConfig [class]"
+			],
+			[
+				"Gem",
+				"GeniusCampaignConfig [class]"
+			],
+			[
+				"now",
+				"nowStartOfDay"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"null",
+				"nullMessage"
+			],
+			[
+				"tir",
+				"trialStart : Date"
+			],
+			[
+				"resu",
+				"resultMinutes"
+			],
+			[
+				"result",
+				"resultHours"
+			],
+			[
+				"clie",
+				"clientMinutes"
+			],
+			[
+				"flo",
+				"COMP_FLOAT"
+			],
+			[
+				"client",
+				"clientHours"
+			],
+			[
+				"mat",
+				"matched( n : Int ) : String"
+			],
+			[
+				"m",
+				"match( s : String ) : Bool"
+			],
+			[
+				"GREA",
+				"OP_GREATER_OR_EQUAL [var]"
+			],
+			[
+				"OP_LE",
+				"OP_LESS_OR_EQUAL [var]"
+			],
+			[
+				"valida",
+				"validators"
+			],
+			[
+				"overr",
+				"overrideName"
+			],
+			[
+				"RULE_TIME",
+				"RULE_TIME_OF_DAY [var]"
+			],
+			[
+				"day",
+				"dayOfWeekIndex"
+			],
+			[
+				"fr",
+				"fromTime( t : Float ) : Date"
+			],
+			[
+				"timezone",
+				"timezoneOffset"
+			],
+			[
+				"pars",
+				"parseInt( x : String ) : Null<Int>"
+			],
+			[
+				"RULE_TIM",
+				"RULE_TIME_OF_DAY [var]"
+			],
+			[
+				"HOST",
+				"HOST_TYPE_WEBSITE : String"
+			],
+			[
+				"short",
+				"shortUrl"
+			],
+			[
+				"inval",
+				"invalidate"
+			],
+			[
+				"invl",
+				"invalidation"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"inva",
+				"invalidation_paths"
+			],
+			[
+				"object",
+				"object_key"
+			],
+			[
+				"obj",
+				"object_key"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"scr",
+				"script_source"
+			],
+			[
+				"out",
+				"output_js_file"
+			],
+			[
+				"abs",
+				"abs_output_html_file"
+			],
+			[
+				"abs_out",
+				"abs_output_html_file"
+			],
+			[
+				"M",
+				"MINIFY_SCRIPT_REGEX"
+			],
+			[
+				"MINI",
+				"MINIFY_SCRIPT_PLACEHOLDER"
+			],
+			[
+				"rela",
+				"relative_to_base_path"
+			],
+			[
+				"html",
+				"html_file"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"abs_",
+				"abs_source"
+			],
+			[
+				"cop",
+				"copy_directory"
+			],
+			[
+				"des",
+				"destination_root"
+			],
+			[
+				"sour",
+				"source_path"
+			],
+			[
+				"base",
+				"base_path"
+			],
+			[
+				"outp",
+				"output_path"
+			],
+			[
+				"source",
+				"source_path"
+			],
+			[
+				"in",
+				"indifferent_access"
+			],
+			[
+				"less",
+				"less_files"
+			],
+			[
+				"widget",
+				"widget_compile_path"
+			],
+			[
+				"relea",
+				"release_id"
+			],
+			[
+				"gen",
+				"genius_releases"
+			],
+			[
+				"rele",
+				"releases_dir"
+			],
+			[
+				"has",
+				"has_release"
+			],
+			[
+				"rea",
+				"releases_dir"
+			],
+			[
+				"rel",
+				"releases"
+			],
+			[
+				"buk",
+				"bucket"
+			],
+			[
+				"fan",
+				"fanplayr_node"
+			],
+			[
+				"qu",
+				"queryMethodNames"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ss rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ss ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss rb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ss sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss java",
+				"Set Syntax: Java"
+			],
+			[
+				"ss ry",
+				"Set Syntax: Ruby"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"line",
+				"Line Ending: Windows"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"view",
+				"View: Toggle Side Bar"
+			],
+			[
+				"war",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"in	",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ss ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ind spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss p",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss sca",
+				"Set Syntax: Scala"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"ss ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: animate"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"hxm",
+				"Set Syntax: Hxml"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"node",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matt/github/jekyll-ui/app.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/js/controllers.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/js/client.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/js/directives.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/index.html",
+		"/Users/matt/tmp/express/jekyll-ui/public/partials/editor-directive.html",
+		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/editor.less",
+		"/Users/matt/tmp/express/jekyll-ui/public/partials/post.html",
+		"/Users/matt/tmp/express/jekyll-ui/package.json",
+		"/Users/matt/github/jekyll-ui/package.json",
+		"/Users/matt/tmp/express/jekyll-ui/routes/post.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/style.less",
+		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/style.css",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/codemirror/mode/css/scss_test.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/js/services.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/variables.less",
+		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/mixins.less",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/bootstrap/less/mixins.less",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/jquery/src/exports/global.js",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/no-filename/generic.http",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/.bin/express",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/moment/foo.coffee",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/ejs/test/fixtures/para.ejs",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/express/node_modules/fresh/package.json",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/less-middleware/node_modules/less/build.gradle",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower.json",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/codemirror/addon/lint/coffeescript-lint.js",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/inflect/spec/client/coffee-script.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/jquery/src/offset.js",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-firefox-3.6.http",
+		"/Users/matt/tmp/express/jekyll-ui/public/partials/navbar.html",
+		"/Users/matt/github/jekyll-ui/server/app.js",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/inflect/lib/inflect/string_extensions.js",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/moment/CONTRIBUTING.md",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/async/component.json",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/inflect/Cakefile",
+		"/Users/matt/tmp/express/jekyll-ui/app.js",
+		"/Users/matt/tmp/express/jekyll-ui/nodemon.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/codemirror/theme/pastel-on-dark.css",
+		"/Users/matt/tmp/express/jekyll-ui/public/partials/posts.html",
+		"/Users/matt/tmp/express/jekyll-ui/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-safari-5.http",
+		"/Users/matt/tmp/express/jekyll-ui/views/posts.ejs",
+		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/jquery/src/var/toString.js",
+		"/Users/matt/tmp/express/jekyll-ui/public/partials/main.html",
+		"/Users/matt/github/jekyll-ui/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/Users/matt/github/jekyll-ui/client/public/bower_components/bootstrap/bower.json",
+		"/Users/matt/github/jekyll-ui/client/public/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/Users/matt/tmp/express/jekyll-ui/routes/user.js",
+		"/Users/matt/tmp/express/jekyll-ui/views/index.ejs",
+		"/Users/matt/tmp/express/jekyll-ui/routes/index.js",
+		"/Users/matt/github/jekyll-ui/bin/jekyll-ui.js",
+		"/Users/matt/github/jekyll-ui/gulpfile.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/build.hxml",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/Config.hx",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/docs/config-old.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/Campaigns.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpDbUtility.hx",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/docco.css",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/mobile-app.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/test/Matt.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/lib/redis/RedisClient.class.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/lib/php/Boot.class.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/redis/RedisError.hx",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/README.md",
+		"/Users/matt/work/fanplayr/test/redis-mongo/test.php",
+		"/Users/matt/.redis-commander",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/redis/RedisClient.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/redis/Redis.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/fanplayr_site.hxproj",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/package.json",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/PrintEmail.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/predis-v0.8.5-183d2fb/lib/Predis/PredisException.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/utils/aws/externs/AmazonS3.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/utils/aws/externs/SimpleS3.hx",
+		"/Users/matt/work/fanplayr/repos/utils/fp-service.sh",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/settings.php",
+		"/Users/matt/.dotfiles/connect/fanplayr.rb",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/2B24F280-5AC5-44D3-B8C5-AA7C71635F26/test.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/temp/new-analytics/node_modules/grunt/node_modules/iconv-lite/test/performance.js",
+		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/node_modules/grunt/node_modules/iconv-lite/test/performance.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/views/performance/tab.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/views/performance/search-terms.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/core/misc/Pref.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/core/Settings.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/settings.build.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/settings.local.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/tpl/dashboard/genius/segments/segment-editor.php",
+		"/Users/matt/work/fanplayr/repos/bigquery-sync/create-services.sh",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/report/providers/report-provider.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/views/summary.html",
+		"/Users/matt/.dotfiles/connect/instances.rb",
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/_layouts/post.html",
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/index.html",
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/_layouts/default.html",
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/_config.yml",
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/CNAME",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/report/controllers/summary-controller.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/ShortURL.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/index.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/v2/index.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/index.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/Incentive.hx",
+		"/Users/matt/work/fanplayr/blog-platform/app.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/report/providers/dashboard-adaptor-provider.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/filter-editor/providers/filters-provider.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/apis/shopify/externs/Province.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/lib/poko/apis/shopify/externs/Province.extern.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/Product Trunk.esproj/Project.espressostorage",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/dashboard/genius/Options.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/utils/oauth/OAuthRequest.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/core/form/ColorInput.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/UserVisitHistory.hx",
+		"/Users/matt/work/fanplayr/repos/insights-server/conf/server.conf",
+		"/Users/matt/work/fanplayr/repos/insights-server/restart-services.sh",
+		"/Users/matt/work/fanplayr/repos/insights-server/create-services.sh",
+		"/Users/matt/work/fanplayr/repos/bigquery-sync/docs/last-exported.txt",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/embed.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/i18n/en.json",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/mail/Exception.hx",
+		"/Users/matt/Downloads/account_600_orders.json",
+		"/Users/matt/Downloads/account_600_orders-2.json",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpAnalyticsDbUtility.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpGeniusApi.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/custom-orders/custom_orders.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/RenderGamified.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/services/geoip/geoip.php",
+		"/Users/matt/work/fanplayr/product/branches/production/site/www/widgets/genius/builds/current/js/app-ck.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/matt/tmp/express/jekyll-ui/public/bower_components/bootstrap/less",
+			"/Users/matt/work/fanplayr/product/trunk/site",
+			"/Users/matt/work/fanplayr",
+			"/Users/matt/work/fanplayr/product/trunk/site",
+			"/Users/matt/work/fanplayr/opsworks-cookbooks",
+			"/Users/matt/work/fanplayr/product/trunk/site",
+			"",
+			"/Users/matt/dev/htdocs/lemonstand",
+			"*.hx",
+			"*.js",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/dev/htdocs/lemonstand",
+			"/Users/matt/work/fanplayr/opsworks-cookbooks",
+			"*.rb",
+			"*.php",
+			"*.rb",
+			"*.hx",
+			"",
+			"*.hx",
+			"*.php",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site",
+			"/Users/matt/work/fanplayr/opsworks/cookbooks/aws",
+			"",
+			"*.php",
+			"",
+			"/Users/matt/dev/opsworks-cookbooks-master",
+			"",
+			"/Users/matt/work/fanplayr/ec2-instance/setup/system-files",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/",
+			"",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/dev/htdocs/lemonstand",
+			"*.less",
+			"",
+			"*.php",
+			"",
+			"/Volumes/Data/temp/Fanplayr-1.0.14",
+			"",
+			"*.js",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius",
+			"*.less",
+			".*poko*.hx",
+			"*.hx",
+			".hx",
+			"",
+			"accountApi.getAccountById({id: 0, accountId: shopLink.accountId, onBehalfOfAccountId: shopLink.accountId }, shopLink.accountId);",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/work/fanplayr/sales-kit",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/source",
+			"/Users/matt/Downloads/prestashop",
+			"*.js",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/source/less",
+			"*.php",
+			"*.js",
+			"",
+			"/Users/matt/work/fanplayr/website/trunk/resources",
+			"/Users/matt/work/fanplayr/website/v2/wordpress",
+			"*.scss",
+			"/Users/matt/work/fanplayr/website/v2/wordpress",
+			"",
+			"*.php",
+			"",
+			"*.less",
+			"",
+			"*.js",
+			"",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/build",
+			"",
+			"./",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/www",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/www",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src/*.less",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/usr/local/lib/node_modules/less",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src/less/lessjs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"asdf",
+			"div",
+			"value",
+			"newValue",
+			"initialValue",
+			"value",
+			"();\n",
+			"el",
+			"options",
+			"defaultOptions",
+			"options",
+			"new",
+			"values",
+			"newValues",
+			"codeMirror",
+			"cm",
+			"uiCodeMirr",
+			"attrs",
+			"element",
+			"postlink",
+			"editor",
+			"services",
+			"restrict",
+			" \n",
+			"wrapper",
+			"savePost",
+			"test",
+			"get",
+			"('/",
+			"d0d0d0",
+			"pointer",
+			"mousewheel",
+			"inset",
+			"relative",
+			"fff",
+			"green",
+			"white",
+			"blue",
+			"white",
+			"red",
+			"999",
+			"throttle",
+			"1000",
+			"dy2",
+			"scrollHeight",
+			"newScrollHeight",
+			"scrollHeight",
+			"dy2",
+			"instance",
+			"inputTab",
+			"true",
+			"inputTab",
+			"isEditing",
+			"inputTab",
+			"true",
+			"updateEditor",
+			"input",
+			"updatePreview",
+			"true",
+			"preview",
+			"input",
+			"red",
+			".editor-col-content",
+			"ddd",
+			"74%",
+			"F5F5F5",
+			"editor",
+			"max",
+			"tabs",
+			"tab",
+			"preview",
+			"editor",
+			"tab",
+			"row",
+			"tabs",
+			"tab",
+			"right",
+			"odd",
+			"even",
+			"Editor",
+			"Markdown",
+			"Preview",
+			"Markdown",
+			">\n",
+			"div",
+			"title",
+			"padding",
+			"right",
+			"asdf",
+			"ccc",
+			"mixins",
+			"1000px",
+			"min",
+			"editor",
+			"red",
+			"editor",
+			"make-grid-columns",
+			"height",
+			"red",
+			"eee",
+			"inset",
+			"right",
+			"left",
+			"containe",
+			"editor",
+			"container",
+			"left",
+			"absolute",
+			"sm",
+			"default",
+			"left",
+			"default",
+			"eee",
+			"ccc",
+			"top",
+			"underline",
+			"italic",
+			"btn",
+			"controllers",
+			"now()",
+			"from",
+			"setSelection",
+			"Bold",
+			" col-full-height",
+			"\">",
+			"fixed",
+			"\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"____a",
+			"site.fanplayr",
+			"",
+			"ows.fanplayr.com",
+			"",
+			": '<i>See below</i>'",
+			":\\s'<i>See below</i>'",
+			":\\s'<i>$1</i>'",
+			"else",
+			"\",\\n",
+			":$1 =>",
+			":$1",
+			"'$1',",
+			"$1",
+			"\"$1\" => \"$2\",",
+			"(null, 2, '$1'),",
+			"",
+			"(null, 1, '$1'),",
+			"(null, 1, '$1'),\\n",
+			",\\n",
+			"(null, 1, '$1')",
+			"(null, 1, $1)",
+			"",
+			"$1\\n",
+			"",
+			"\\n$1",
+			"site.fanplayr",
+			"prod.fanplayr.com",
+			"$1\\n$2\\n\\n",
+			"",
+			"$1",
+			"",
+			"'",
+			"</p><br/>",
+			"stage.fanplayr.com",
+			"sendForm_G(",
+			"displayCoupon_n(",
+			"jqueryEasing_w(",
+			"rememberCoupons_o(",
+			"setCouponData_x(",
+			"getCouponData_u(",
+			"restoreCoupons_r(",
+			"injectNewIframe_b(",
+			"console_c(",
+			"newCoupon_k(",
+			"bmProcessQ_m(",
+			"newCoupon_k(",
+			"injectNewIframe_b(",
+			"console_c(",
+			"console_c",
+			"scale($1 + @tada-scale)",
+			"scale($2 + @tada-scale)",
+			"scale($1 + @tada-scale)",
+			"",
+			"80efa5adac62ef11e1f09800d5f9795b",
+			"accountApi.getAccountById({id: 0, accountId: shopLink.accountId, onBehalfOfAccountId: shopLink.accountId }, shopLink.accountId);",
+			"",
+			"$",
+			"_hx_anonymous",
+			"'value' =>",
+			")),",
+			"_hx_anonymous(array(",
+			"'value'",
+			"$1: \"$2\"",
+			"",
+			"$1:\\t\\t\"$2\"",
+			"#$1",
+			"{$1}",
+			"gameSpinner",
+			"gameMystery",
+			"$1:",
+			"\"$1\":",
+			"baseUrl",
+			"fbHostPageId",
+			"\", \"",
+			"\"$1\"",
+			"\"\\1\"",
+			"\"$1\"",
+			", ",
+			"\\n",
+			"guid",
+			"mage_cookie",
+			"/var/log/httpd/",
+			"console.log",
+			"fatal",
+			"trimAppDir",
+			"minJsFile",
+			"sourceDir",
+			"indexFile",
+			"console.log",
+			"console.error",
+			": ",
+			"console.log",
+			"console.error",
+			"console.log",
+			"sourceDir",
+			"buildDir",
+			"sourceDir",
+			"baseDir",
+			".left",
+			".right",
+			"this.",
+			"cli.",
+			"\\tmatt.",
+			"matt."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "jekyll-ui.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bu",
+				"node_modules/less-middleware/node_modules/less/build.gradle"
+			],
+			[
+				"postl",
+				"public/partials/post.html"
+			],
+			[
+				"servi",
+				"public/js/services.js"
+			],
+			[
+				"controller",
+				"public/js/controllers.js"
+			],
+			[
+				"clie",
+				"public/js/client.js"
+			],
+			[
+				"post.html",
+				"public/partials/post.html"
+			],
+			[
+				"osts.htm",
+				"public/partials/posts.html"
+			],
+			[
+				"config",
+				"site/src/site/Config.hx"
+			],
+			[
+				"dbut",
+				"site/src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"matt",
+				"site/src/site/test/Matt.hx"
+			],
+			[
+				"boo",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"rediscl",
+				"site/src/redis/RedisClient.hx"
+			],
+			[
+				"fpdbut",
+				"site/src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"redisclie",
+				"site/www/lib/redis/RedisClient.class.php"
+			],
+			[
+				"redis",
+				"site/src/redis/Redis.hx"
+			],
+			[
+				"preformance",
+				"site/src/site/test/SessionPerformance.hx"
+			],
+			[
+				"settings",
+				"site/www/inc/settings.php"
+			],
+			[
+				"summarycon",
+				"site/www/apps/genius-reports/src/report/controllers/summary-controller.js"
+			],
+			[
+				"summarh",
+				"site/www/apps/genius-reports/views/summary.html"
+			],
+			[
+				"index.html",
+				"site/www/apps/genius-reports/index.html"
+			],
+			[
+				"provider",
+				"site/www/apps/genius-reports/src/report/providers/report-provider.js"
+			],
+			[
+				"em",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"bui",
+				"site/build.hxml"
+			],
+			[
+				"fpana",
+				"src/fp/data/api/FpAnalyticsDbUtility.hx"
+			],
+			[
+				"settlo",
+				"www/inc/settings.local.php"
+			],
+			[
+				"segless",
+				"site/src/less/genius-segmentation.less"
+			],
+			[
+				"coupons.hx",
+				"site/src/site/dashboard/genius/Coupons.hx"
+			],
+			[
+				"embed",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"segmented",
+				"site/www/tpl/dashboard/genius/segments/segment-editor.php"
+			],
+			[
+				"segruleset",
+				"site/src/fp/data/objects/SegmentRuleset.hx"
+			],
+			[
+				"strftime",
+				"site/www/widgets/common/js/strftime.js"
+			],
+			[
+				"temptest",
+				"site/www/temp/test.php"
+			],
+			[
+				"setting",
+				"site/www/inc/settings.php"
+			],
+			[
+				"account",
+				"site/src/fp/data/objects/Account.hx"
+			],
+			[
+				"datetools",
+				"site/src/poko/utils/DateTools2.hx"
+			],
+			[
+				"socialapi",
+				"site/src/fp/data/api/FpSocialSalesApi.hx"
+			],
+			[
+				"trial",
+				"site/www/tpl/dashboard/campaign/TrialInfoMessage.php"
+			],
+			[
+				"accountap",
+				"site/src/fp/data/api/FpAccountApi.hx"
+			],
+			[
+				"getcod",
+				"site/src/site/dashboard/campaign/GetCode.hx"
+			],
+			[
+				"settingloc",
+				"fanplayr/product/trunk/site/www/inc/settings.local.php"
+			],
+			[
+				"local.",
+				"site/www/inc/settings.local.php.off"
+			],
+			[
+				"translatio",
+				"site/www/widgets/genius/js/translations.js"
+			],
+			[
+				"b",
+				"site/build.hxml"
+			],
+			[
+				"fpdb",
+				"site/src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"fpdbyt",
+				"fanplayr/product/htdocs/inc/aws2/lib/dom/_tests/null_bytes.phpt"
+			],
+			[
+				"campaign.hx",
+				"site/src/fp/data/objects/Campaign.hx"
+			],
+			[
+				"campai",
+				"site/src/site/Campaigns.hx"
+			],
+			[
+				"rewardcam",
+				"site/src/fp/data/objects/RewardCampaign.hx"
+			],
+			[
+				"socialsalescam",
+				"site/src/fp/data/objects/SocialSalesCampaign.hx"
+			],
+			[
+				"buil",
+				"site/build.hxml"
+			],
+			[
+				"local",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"fpcac",
+				"site/src/fp/data/api/FpCacheUtility.hx"
+			],
+			[
+				"error.hx",
+				"site/src/fp/data/api/DataApiErrorText.hx"
+			],
+			[
+				"dataap",
+				"site/src/fp/data/api/DataApiErrorCodes.hx"
+			],
+			[
+				"baseap",
+				"site/src/fp/data/api/FpBaseApi.hx"
+			],
+			[
+				"editor.php",
+				"site/www/tpl/dashboard/genius/CouponEditor.php"
+			],
+			[
+				"uti",
+				"site/www/widgets/common/js/utils.js"
+			],
+			[
+				"app-ck",
+				"site/www/widgets/genius/js/app-ck.js"
+			],
+			[
+				"lang.",
+				"site/www/widgets/common/js/lang.js"
+			],
+			[
+				"geniuscam",
+				"site/src/fp/data/objects/GeniusCampaign.hx"
+			],
+			[
+				"strft",
+				"site/www/widgets/common/js/strftime.js"
+			],
+			[
+				"widget.js",
+				"site/www/widgets/genius/js/widget.js"
+			],
+			[
+				"app.js",
+				"site/www/widgets/genius/js/app.js"
+			],
+			[
+				"translat",
+				"site/www/widgets/genius/js/translations.js"
+			],
+			[
+				"extgen",
+				"site/src/site/external/Genius.hx"
+			],
+			[
+				"utils.js",
+				"site/www/widgets/common/js/utils.js"
+			],
+			[
+				"options",
+				"site/src/site/dashboard/genius/Options.hx"
+			],
+			[
+				"",
+				"fanplayr/product/trunk/site/src/site/external/Genius.hx"
+			],
+			[
+				"reflec",
+				"site/src/utils/DeepReflect.hx"
+			],
+			[
+				"logger.hx",
+				"site/src/utils/Logger.hx"
+			],
+			[
+				"cacheut",
+				"site/src/fp/data/api/FpCacheUtility.hx"
+			],
+			[
+				"fpcach",
+				"site/src/fp/data/api/FpCacheUtility.hx"
+			],
+			[
+				"fpgeniusapi",
+				"fanplayr/product/trunk/site/src/fp/data/api/FpGeniusApi.hx"
+			],
+			[
+				"details.cl",
+				"site/www/lib/site/dashboard/genius/Details.class.php"
+			],
+			[
+				"lang",
+				"site/www/widgets/common/js/lang.js"
+			],
+			[
+				"gencam",
+				"site/src/fp/data/objects/GeniusCampaign.hx"
+			],
+			[
+				"externalgen",
+				"site/www/lib/site/external/Genius.class.php"
+			],
+			[
+				"settings.hx",
+				"site/src/site/core/Settings.hx"
+			],
+			[
+				"loca",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"addrew",
+				"site/www/tpl/dashboard/campaign/AddRewardModal.php"
+			],
+			[
+				"addreward",
+				"site/www/tpl/dashboard/campaign/AddRewardModal.php"
+			],
+			[
+				"reward",
+				"site/www/tpl/dashboard/campaign/Rewards.php"
+			],
+			[
+				"geniusbase",
+				"site/src/site/dashboard/genius/GeniusBase.hx"
+			],
+			[
+				"app.php",
+				"site/www/widgets/genius/app.php"
+			],
+			[
+				"coupons",
+				"site/www/tpl/dashboard/genius/Coupons.php"
+			],
+			[
+				"getcode",
+				"site/www/tpl/dashboard/campaign/GetCode.php"
+			],
+			[
+				"channels",
+				"site/www/tpl/dashboard/campaign/Channels.php"
+			],
+			[
+				"testreset",
+				"site/src/site/test/Reset.hx"
+			],
+			[
+				"coupons.class",
+				"site/www/lib/site/dashboard/genius/Coupons.class.php"
+			],
+			[
+				"incen",
+				"site/src/fp/data/objects/Incentive.hx"
+			],
+			[
+				"couponlist",
+				"site/www/tpl/dashboard/genius/CouponList.php"
+			],
+			[
+				"coupon",
+				"site/www/tpl/dashboard/genius/Coupons.php"
+			],
+			[
+				"lib.cl",
+				"site/www/lib/php/Lib.class.php"
+			],
+			[
+				"type.",
+				"site/www/lib/Type.class.php"
+			],
+			[
+				"type",
+				"site/www/lib/Type.class.php"
+			],
+			[
+				"bootclas",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"boot",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"boot.cla",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"utf8",
+				"site/www/temp/utf8.php"
+			],
+			[
+				"memcachex",
+				"site/www/tpl/manport/MemcacheExplorer.php"
+			],
+			[
+				"config.hx",
+				"site/src/site/Config.hx"
+			],
+			[
+				"fpap",
+				"site/src/fp/data/api/FpApiDefs.hx"
+			],
+			[
+				"fpsoci",
+				"site/src/fp/data/api/FpSocialSalesApi.hx"
+			],
+			[
+				"getcode.php",
+				"site/www/tpl/dashboard/campaign/GetCode.php"
+			],
+			[
+				"getco",
+				"site/src/site/dashboard/campaign/GetCode.hx"
+			],
+			[
+				"postpub",
+				"site/src/site/dashboard/campaign/PostPublish.hx"
+			],
+			[
+				"publish",
+				"site/src/site/dashboard/campaign/Publish.hx"
+			],
+			[
+				"socialsalesapi",
+				"site/src/fp/data/api/FpSocialSalesApi.hx"
+			],
+			[
+				"transac",
+				"site/www/tpl/dashboard/account/Transactions.php"
+			],
+			[
+				"fpdbu",
+				"site/src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"memcache.class",
+				"site/www/lib/poko/utils/memcache/Memcache.class.php"
+			],
+			[
+				"exmemcache",
+				"site/src/poko/utils/memcache/externs/Memcache.hx"
+			],
+			[
+				"memcac",
+				"site/src/poko/utils/memcache/Memcache.hx"
+			],
+			[
+				"boot.p",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"instna",
+				"site/www/services/status/instance_status.php"
+			],
+			[
+				"boot.php",
+				"site/www/lib/php/Boot.class.php"
+			],
+			[
+				"instansta",
+				"site/www/services/status/instance_status.php"
+			],
+			[
+				"extge",
+				"site/src/site/external/Genius.hx"
+			],
+			[
+				"temtest",
+				"site/www/temp/test.php"
+			],
+			[
+				"widg",
+				"site/www/widgets/genius/js/widget.js"
+			],
+			[
+				"segmecon",
+				"site/src/fp/data/objects/SegmentContext.hx"
+			],
+			[
+				"apputi",
+				"site/src/apps/AppUtils.hx"
+			],
+			[
+				"ja",
+				"site/www/inc/i18n/ja.json"
+			],
+			[
+				"localiz",
+				"site/src/utils/Localization.hx"
+			],
+			[
+				"legal",
+				"site/src/site/external/Legal.hx"
+			],
+			[
+				"en.json",
+				"site/www/inc/i18n/en.json"
+			],
+			[
+				"coupedit",
+				"site/www/tpl/dashboard/genius/CouponEditor.php"
+			],
+			[
+				"genca",
+				"site/src/fp/data/objects/GeniusCampaign.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/matt/work/fanplayr-website/fanplayr-website2.sublime-project"
+			],
+			[
+				"mag",
+				"/Volumes/Data/temp/Fanplayr-1.0.14/MagentoFanplayr1.0.14.sublime-project"
+			],
+			[
+				"ne",
+				"/Users/matt/work/newsletter-app/newsletter-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -22,7 +22,8 @@
     "markdown-js": "0.0.3",
     "underscore": "~1.6.0",
     "moment": "~2.5.1",
-    "inflect": "~0.3.0"
+    "inflect": "~0.3.0",
+    "gitty": "~2.0.0"
   },
   "engines": {
     "node": "*"
@@ -35,6 +36,8 @@
     "gulp": "~3.5.2",
     "gulp-browserify": "~0.4.6",
     "gulp-nodemon": "~0.1.2",
-    "gulp-less": "~1.2.1"
+    "gulp-less": "~1.2.1",
+    "gulp-rename": "~1.1.0",
+    "debowerify": "~0.6.0"
   }
 }

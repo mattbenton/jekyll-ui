@@ -1,0 +1,133 @@
+.btn-red {
+  border: 1px solid green;
+}
+/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+body {
+  padding-top: 70px;
+  background-color: #f1f1f1;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.container-full {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.btn {
+  border-top-width: 0;
+  border-bottom-width: 2px;
+}
+.editor-wrapper {
+  position: relative;
+}
+.editor-tabs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+}
+.editor-tabs:before,
+.editor-tabs:after {
+  content: " ";
+  display: table;
+}
+.editor-tabs:after {
+  clear: both;
+}
+.editor-tab {
+  padding: 10px;
+  background: -moz-linear-gradient(top, #ffffff 15%, rgba(255, 255, 255, 0.9) 99%, rgba(255, 255, 255, 0.9) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(15%, #ffffff), color-stop(99%, rgba(255, 255, 255, 0.9)), color-stop(100%, rgba(255, 255, 255, 0.9)));
+  background: -webkit-linear-gradient(top, #ffffff 15%, rgba(255, 255, 255, 0.9) 99%, rgba(255, 255, 255, 0.9) 100%);
+  background: -o-linear-gradient(top, #ffffff 15%, rgba(255, 255, 255, 0.9) 99%, rgba(255, 255, 255, 0.9) 100%);
+  background: -ms-linear-gradient(top, #ffffff 15%, rgba(255, 255, 255, 0.9) 99%, rgba(255, 255, 255, 0.9) 100%);
+  background: linear-gradient(to bottom, #ffffff 15%, rgba(255, 255, 255, 0.9) 99%, rgba(255, 255, 255, 0.9) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6ffffff', GradientType=0);
+  color: #999;
+  font: 11px sans-serif;
+  font-weight: 200;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.editor-tabs-shadow {
+  display: none;
+}
+.s-editor-single .editor-tabs {
+  position: relative;
+}
+.s-editor-single .editor-col-content {
+  width: 100%;
+}
+.s-editor-single .editor-col-content:nth-child(odd),
+.s-editor-single .editor-col-content:nth-child(even) {
+  padding: 0;
+}
+.s-editor-single .editor-tabs-shadow {
+  display: block;
+}
+.s-editor-single.s-editor-input .editor-col-preview {
+  display: none;
+}
+.s-editor-single.s-editor-preview .editor-col-input {
+  display: none;
+}
+.s-editor-single .editor-tab.s-active {
+  box-shadow: none;
+  background-color: #fff;
+  color: #000;
+  cursor: default;
+}
+.s-editor-single .editor-tab.s-inactive {
+  box-shadow: inset 0 -1px 5px -2px #aaaaaa;
+  background: #d4d4d4;
+  color: #fff;
+  cursor: pointer;
+}
+.s-editor-single .editor-tab.s-inactive:hover {
+  background: #ccc;
+}
+.editor-shadow {
+  position: absolute;
+  top: -20px;
+  z-index: 1000;
+  display: none;
+  height: 20px;
+  width: 100%;
+  box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1);
+  background-color: transparent;
+}
+.s-editor-double .editor-tab {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+.s-editor-double .CodeMirror-lines,
+.s-editor-double .editor-preview {
+  padding-top: 50px;
+}
+.editor-preview {
+  padding: 15px 15px;
+  overflow-y: auto;
+  background-color: #fff;
+}
+.editor-col {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+.editor-col:nth-child(odd) {
+  padding-right: 2px;
+}
+.editor-col:nth-child(even) {
+  padding-left: 2px;
+}
+.CodeMirror {
+  height: 400px;
+  padding: 0 15px 15px;
+}
+code {
+  white-space: normal;
+}

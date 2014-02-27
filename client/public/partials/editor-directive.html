@@ -1,0 +1,25 @@
+<div class="editor-wrapper" ng-class="{ 's-editor-double': editorDouble, 's-editor-single': !editorDouble, 's-editor-input': isEditing, 's-editor-preview': !isEditing }">
+  <div class="editor-row editor-tabs">
+    <div class="editor-col">
+      <div class="editor-tab" ng-click="inputTab()" ng-class="{ 's-active': isEditing, 's-inactive': !isEditing }">
+        Editor
+      </div>
+    </div>
+    <div class="editor-col">
+      <div class="editor-tab" ng-click="previewTab()" ng-class="{ 's-active': !isEditing, 's-inactive': isEditing }">
+        Preview
+      </div>
+    </div>
+    <div class="editor-tabs-shadow"></div>
+  </div><!-- .editor-row -->
+  <div class="editor-row">
+    <div class="editor-col editor-col-content editor-col-input">
+      <div class="editor-shadow"></div>
+      <textarea id="editor"></textarea>
+    </div>
+    <div class="editor-col editor-col-content editor-col-preview">
+      <div class="editor-shadow"></div>
+      <div class="editor-preview" id="preview"></div>
+    </div>
+  </div><!-- .editor-row -->
+</div>

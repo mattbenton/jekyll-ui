@@ -1,0 +1,18 @@
+{
+  "folders":
+  [
+    {
+      "follow_symlinks": true,
+      "path": ".",
+      "folder_exclude_patterns":
+      [
+        ".git"
+      ]
+    }
+  ],
+  "settings": {
+    "translate_tabs_to_spaces": true,
+    "tab_size": 2,
+    "use_tab_stops": true
+  }
+}
