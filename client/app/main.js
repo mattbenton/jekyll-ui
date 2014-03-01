@@ -26,6 +26,7 @@ require('./services/post');
 
 require('./directives/codemirror');
 require('./directives/markdown');
+require('./directives/editor');
 
 require('./controllers/post');
 require('./controllers/posts');

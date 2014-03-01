@@ -520,10 +520,50 @@
 	"buffers":
 	[
 		{
-			"file": "app.js",
+			"file": "client/public/partials/post.html",
 			"settings":
 			{
-				"buffer_size": 1112,
+				"buffer_size": 1303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/main.js",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/public/partials/editor-directive.html",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/directives/editor.js",
+			"settings":
+			{
+				"buffer_size": 838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/directives/codemirror.js",
+			"settings":
+			{
+				"buffer_size": 2039,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/controllers/post.js",
+			"settings":
+			{
+				"buffer_size": 246,
 				"line_ending": "Unix"
 			}
 		}
@@ -795,7 +835,7 @@
 				"Snippet: Snippet: NodeJS EventEmitter"
 			]
 		],
-		"width": 467.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -815,7 +855,41 @@
 	},
 	"file_history":
 	[
+		"/Users/matt/github/jekyll-ui/server/routes/post.js",
+		"/Users/matt/github/jekyll-ui/client/public/bower_components/codemirror/theme/pastel-on-dark.css",
+		"/Users/matt/github/jekyll-ui/package.json",
+		"/Users/matt/github/jekyll-ui/server/server.js",
+		"/Users/matt/github/jekyll-ui/gulpfile.js",
+		"/Users/matt/github/jekyll-ui/client/less/variables.less",
+		"/Users/matt/github/jekyll-ui/client/less/client.less",
+		"/Users/matt/github/jekyll-ui/client/less/global.less",
+		"/Users/matt/github/jekyll-ui/client/public/index.html",
+		"/Users/matt/github/jekyll-ui/client/public/bower.json",
+		"/Users/matt/github/jekyll-ui/client/app/controllers/post.js",
+		"/Users/matt/github/jekyll-ui/client/app/directives/editor.js",
+		"/Users/matt/github/jekyll-ui/client/public/partials/editor-directive.html",
+		"/Users/matt/github/jekyll-ui/.gitignore",
+		"/Users/matt/github/jekyll-ui/server/app.js",
+		"/Users/matt/github/jekyll-ui/public/index.html",
+		"/Users/matt/github/jekyll-ui/client/js/main.js",
+		"/Users/matt/github/jekyll-ui/client/js/services/post.js",
 		"/Users/matt/github/jekyll-ui/app.js",
+		"/Users/matt/github/jekyll-ui/routes/post.js",
+		"/Users/matt/github/jekyll-ui/public/all.js",
+		"/Users/matt/github/jekyll-ui/public/js/controllers.js",
+		"/Users/matt/github/jekyll-ui/client/js/controllers/posts.js",
+		"/Users/matt/github/jekyll-ui/client/js/controllers/test.js",
+		"/Users/matt/github/jekyll-ui/client/js/controllers/module.js",
+		"/Users/matt/github/jekyll-ui/client/js/controllers/post.js",
+		"/Users/matt/github/jekyll-ui/client/js/directives/module.js",
+		"/Users/matt/github/jekyll-ui/client/js/directives/markdown.js",
+		"/Users/matt/github/jekyll-ui/client/js/directives/codemirror.js",
+		"/Users/matt/github/jekyll-ui/client/js/services/module.js",
+		"/Users/matt/github/jekyll-ui/jekyll-ui.sublime-project",
+		"/Users/matt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matt/github/jekyll-ui/bundle.js",
+		"/Users/matt/github/jekyll-ui/node_modules/debowerify/index.js",
+		"/Users/matt/github/jekyll-ui/dist/client.js",
 		"/Users/matt/tmp/express/jekyll-ui/public/js/controllers.js",
 		"/Users/matt/tmp/express/jekyll-ui/public/js/client.js",
 		"/Users/matt/tmp/express/jekyll-ui/public/js/directives.js",
@@ -824,7 +898,6 @@
 		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/editor.less",
 		"/Users/matt/tmp/express/jekyll-ui/public/partials/post.html",
 		"/Users/matt/tmp/express/jekyll-ui/package.json",
-		"/Users/matt/github/jekyll-ui/package.json",
 		"/Users/matt/tmp/express/jekyll-ui/routes/post.js",
 		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/style.less",
 		"/Users/matt/tmp/express/jekyll-ui/public/stylesheets/style.css",
@@ -846,7 +919,6 @@
 		"/Users/matt/tmp/express/jekyll-ui/public/bower_components/jquery/src/offset.js",
 		"/Users/matt/tmp/express/jekyll-ui/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-firefox-3.6.http",
 		"/Users/matt/tmp/express/jekyll-ui/public/partials/navbar.html",
-		"/Users/matt/github/jekyll-ui/server/app.js",
 		"/Users/matt/tmp/express/jekyll-ui/node_modules/inflect/lib/inflect/string_extensions.js",
 		"/Users/matt/tmp/express/jekyll-ui/node_modules/moment/CONTRIBUTING.md",
 		"/Users/matt/tmp/express/jekyll-ui/node_modules/async/component.json",
@@ -866,7 +938,6 @@
 		"/Users/matt/tmp/express/jekyll-ui/views/index.ejs",
 		"/Users/matt/tmp/express/jekyll-ui/routes/index.js",
 		"/Users/matt/github/jekyll-ui/bin/jekyll-ui.js",
-		"/Users/matt/github/jekyll-ui/gulpfile.js",
 		"/Users/matt/work/fanplayr/product/trunk/site/build.hxml",
 		"/Users/matt/work/fanplayr/product/trunk/site/src/site/Config.hx",
 		"/Users/matt/work/fanplayr/adaptors/yahoo.com/adaptor/docs/config-old.html",
@@ -911,38 +982,7 @@
 		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/index.html",
 		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/_layouts/default.html",
 		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/_config.yml",
-		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/CNAME",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/report/controllers/summary-controller.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/ShortURL.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/index.html",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/v2/index.html",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/index.php",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/Incentive.hx",
-		"/Users/matt/work/fanplayr/blog-platform/app.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/report/providers/dashboard-adaptor-provider.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/genius-reports/src/filter-editor/providers/filters-provider.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/apis/shopify/externs/Province.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/lib/poko/apis/shopify/externs/Province.extern.php",
-		"/Users/matt/work/fanplayr/product/trunk/site/Product Trunk.esproj/Project.espressostorage",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/site/dashboard/genius/Options.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/utils/oauth/OAuthRequest.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/site/core/form/ColorInput.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/UserVisitHistory.hx",
-		"/Users/matt/work/fanplayr/repos/insights-server/conf/server.conf",
-		"/Users/matt/work/fanplayr/repos/insights-server/restart-services.sh",
-		"/Users/matt/work/fanplayr/repos/insights-server/create-services.sh",
-		"/Users/matt/work/fanplayr/repos/bigquery-sync/docs/last-exported.txt",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/embed.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/i18n/en.json",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/poko/mail/Exception.hx",
-		"/Users/matt/Downloads/account_600_orders.json",
-		"/Users/matt/Downloads/account_600_orders-2.json",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpAnalyticsDbUtility.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpGeniusApi.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/custom-orders/custom_orders.js",
-		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/RenderGamified.hx",
-		"/Users/matt/work/fanplayr/product/trunk/site/www/services/geoip/geoip.php",
-		"/Users/matt/work/fanplayr/product/branches/production/site/www/widgets/genius/builds/current/js/app-ck.js"
+		"/Users/matt/work/fanplayr/repos/fanplayr.github.io/CNAME"
 	],
 	"find":
 	{
@@ -1062,6 +1102,50 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wrapper",
+			"Code",
+			"preview",
+			"single",
+			"mode",
+			"isEditing",
+			"previewTab",
+			"isEditing",
+			"inputTab",
+			"editor",
+			"markdown",
+			"editorTextx",
+			"uiCodemirror",
+			"mixins",
+			"editor",
+			"css",
+			"scripts",
+			"client",
+			"all",
+			"js",
+			"scripts",
+			"less",
+			"Post",
+			"codemirror",
+			"post",
+			"direcives",
+			"services",
+			"matt",
+			"test",
+			"PostService",
+			"defaultOptions",
+			"uiCodemirrorConfig",
+			"controllers",
+			"TestCtrl",
+			"test",
+			"Angular",
+			"false",
+			"true",
+			"angular",
+			"dist",
+			"build",
+			"client",
+			"false",
+			"svn",
 			"name",
 			"asdf",
 			"div",
@@ -1145,51 +1229,7 @@
 			"Editor",
 			"Markdown",
 			"Preview",
-			"Markdown",
-			">\n",
-			"div",
-			"title",
-			"padding",
-			"right",
-			"asdf",
-			"ccc",
-			"mixins",
-			"1000px",
-			"min",
-			"editor",
-			"red",
-			"editor",
-			"make-grid-columns",
-			"height",
-			"red",
-			"eee",
-			"inset",
-			"right",
-			"left",
-			"containe",
-			"editor",
-			"container",
-			"left",
-			"absolute",
-			"sm",
-			"default",
-			"left",
-			"default",
-			"eee",
-			"ccc",
-			"top",
-			"underline",
-			"italic",
-			"btn",
-			"controllers",
-			"now()",
-			"from",
-			"setSelection",
-			"Bold",
-			" col-full-height",
-			"\">",
-			"fixed",
-			"\">"
+			"Markdown"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1312,24 +1352,174 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app.js",
+					"file": "client/public/partials/post.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1112,
+						"buffer_size": 1303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/app/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/public/partials/editor-directive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/directives/editor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/app/directives/codemirror.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1056,
+								1056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/app/controllers/post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
 							]
 						],
 						"settings":
@@ -1340,7 +1530,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1400,6 +1590,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"post.",
+				"client/app/controllers/post.js"
+			],
 			[
 				"bu",
 				"node_modules/less-middleware/node_modules/less/build.gradle"
@@ -1907,10 +2101,6 @@
 			[
 				"coupedit",
 				"site/www/tpl/dashboard/genius/CouponEditor.php"
-			],
-			[
-				"genca",
-				"site/src/fp/data/objects/GeniusCampaign.hx"
 			]
 		],
 		"width": 0.0

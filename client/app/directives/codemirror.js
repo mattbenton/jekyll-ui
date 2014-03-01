@@ -32,6 +32,8 @@ module.directive('uiCodemirror', function () {
           }
         }
 
+        console.log('code scope', scope);
+
         updateOptions(opts);
 
         function updateModel ( newValue ) {
